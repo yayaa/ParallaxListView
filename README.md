@@ -13,7 +13,7 @@ This library works on 2.2+ probably earlier as well, but i didn't even bother to
 
 Usage
 -----
-Get your ParallaxListView instance, and set its adapter as shown in sample. You need to provide a ParallaxImageView, which will handle parallax effect, on your recyclerView's item. 
+Get your ParallaxListView instance, and set its adapter as shown in sample. You need to provide a ParallaxImageView, which will handle parallax effect, on your listView's item. 
 
 In your adapter create a ViewHolder which extends ParallaxViewHolder. You need to use these specifications:
 
@@ -33,7 +33,7 @@ If you wish to change Parallax effects ratio, you can simple call `setParallaxRa
 References
 ----------
 
-This library has been built by our designer's insistence. She's seen [this library on IOS][3] and want it to have in Android as well. Researches lead me to [this repository][4] but it wasn't quite affective as it is on IOS, so here ParallaxRecyclerView.
+This library has been built by our designer's insistence. She's seen [this library on IOS][3] and want it to have in Android as well. Researches lead me to [this repository][4] but it wasn't quite affective as it is on IOS, so here ParallaxListView.
 
 [1]: https://github.com/nostra13/Android-Universal-Image-Loader
 [2]: http://opensource.org/licenses/mit-license.php
