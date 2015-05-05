@@ -43,9 +43,9 @@ dependencies {
 References
 ----------
 
-This library has been built by our designer's insistence. She's seen [this library on IOS][3] and want it to have in Android as well. Researches lead me to [this repository][4] but it wasn't quite affective as it is on IOS, so here ParallaxListView.
+This library has been built by our designer's insistence. She's seen [JBParallaxCell library on IOS][3] and want it to have in Android as well. Researches lead me to [this repository][4] but it wasn't quite affective as it is on IOS, so here ParallaxListView.
 
 [1]: https://github.com/nostra13/Android-Universal-Image-Loader
 [2]: http://opensource.org/licenses/mit-license.php
-[3]: https://github.com/MP0w/MPSkewed
+[3]: https://github.com/jberlana/JBParallaxCell
 [4]: https://github.com/bopbi/Android-Parallax-ListView-Item
