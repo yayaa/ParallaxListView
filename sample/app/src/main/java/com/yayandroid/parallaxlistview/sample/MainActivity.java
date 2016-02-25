@@ -5,7 +5,6 @@ import android.os.Bundle;
 
 import com.yayandroid.parallaxlistview.ParallaxListView;
 
-
 /**
  * Created by yahyabayramoglu on 14/04/15.
  */
