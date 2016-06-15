@@ -42,7 +42,8 @@ public class ParallaxListView extends ListView {
         public void onScroll(AbsListView view, int firstVisibleItem, int visibleItemCount, int totalItemCount) {
 
             for (int i = 0; i < view.getChildCount(); i++) {
-                ((ParallaxViewHolder) view.getChildAt(i).getTag()).animateImage();
+                if(view.getChildAt(i).getTag() != null)
+                    ((ParallaxViewHolder) view.getChildAt(i).getTag()).animateImage();
             }
 
             if (scrollListener != null)
