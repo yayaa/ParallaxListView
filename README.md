@@ -33,7 +33,7 @@ Add library dependency to your `build.gradle` file:
 [![Maven Central](https://img.shields.io/maven-central/v/com.yayandroid/ParallaxListView.svg)](http://search.maven.org/#search%7Cga%7C1%7CParallaxListView)
 ```groovy
 dependencies {    
-     compile 'com.yayandroid:ParallaxListView:1.0'
+     compile 'com.yayandroid:ParallaxListView:1.1'
 }
 ```
 

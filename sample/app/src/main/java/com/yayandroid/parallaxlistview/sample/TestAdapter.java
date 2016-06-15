@@ -19,6 +19,7 @@ public class TestAdapter extends BaseAdapter {
     private Context context;
     private LayoutInflater inflater;
     private String[] imageUrls = new String[]{
+            "http://yayandroid.com/data/github_library/parallax_listview/test_image_0.jpg",
             "http://yayandroid.com/data/github_library/parallax_listview/test_image_1.jpg",
             "http://yayandroid.com/data/github_library/parallax_listview/test_image_2.jpg",
             "http://yayandroid.com/data/github_library/parallax_listview/test_image_3.png",

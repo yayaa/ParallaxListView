@@ -22,6 +22,9 @@ public abstract class ParallaxViewHolder implements ParallaxImageView.ParallaxIm
 
     @Override
     public int[] requireValuesForTranslate() {
+        if (itemView.getParent() == null)
+            return null;
+
         int[] itemPosition = new int[2];
         itemView.getLocationOnScreen(itemPosition);
 
