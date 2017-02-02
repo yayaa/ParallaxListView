@@ -1,4 +1,7 @@
 # ParallaxListView
+
+**This library is no longer maintained, please use [ParallaxRecyclerView][0] instead.**
+
 This library will provide you to have Parallax effect on every item of your ListView. 
 Sample shows how to implement this features as async image loading with [Picasso][1]
 
@@ -67,6 +70,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
+[0]: https://github.com/yayaa/ParallaxRecyclerView
 [1]: https://github.com/square/picasso
 [2]: https://github.com/jberlana/JBParallaxCell
 [3]: https://github.com/bopbi/Android-Parallax-ListView-Item
