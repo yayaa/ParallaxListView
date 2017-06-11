@@ -1,4 +1,5 @@
 # ParallaxListView
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 **This library is no longer maintained, please use [ParallaxRecyclerView][0] instead.**
 
